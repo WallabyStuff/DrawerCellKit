@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'DrawerCellKit_Example' do
+  pod 'DrawerCellKit', :path => '../'
+
+  target 'DrawerCellKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
