@@ -1,0 +1,16 @@
+PODS:
+  - DrawerCellKit (0.1.0)
+
+DEPENDENCIES:
+  - DrawerCellKit (from `../`)
+
+EXTERNAL SOURCES:
+  DrawerCellKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DrawerCellKit: e001b977029442919682a72cf78d81fa9cf66f6a
+
+PODFILE CHECKSUM: f1202737110afcbd805e6720a1c601c08c855e51
+
+COCOAPODS: 1.11.3

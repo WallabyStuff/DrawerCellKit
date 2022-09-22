@@ -1,0 +1,6 @@
+framework module Pods_DrawerCellKit_Example {
+  umbrella header "Pods-DrawerCellKit_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
